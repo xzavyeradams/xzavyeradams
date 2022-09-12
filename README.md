@@ -8,7 +8,7 @@ I love a good challenge and expanding what I know. I've been fascinated with com
 I began with HTML/CSS (not a coding language, a markup language) in 5th grade, then a tiny bit of JavaScript, then a tiny bit of C++, now python.
 
 ## Get in Touch
-<a href="mailto:xzavyeradams@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:xzavyer@xzavyer.codes">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://twitter.com/xzavyerdev">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
   
 ## Languages & Tools
@@ -21,7 +21,6 @@ I've mainly focused on Python for the few years I've been programming.
 ## Things I Want to Learn
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 </div>
