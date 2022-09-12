@@ -3,9 +3,9 @@
 <div align='center'>
 
 ## Who am I?
-I'm a 16 year old student currently in my sophomore year of highschool. I am studying and planning to go to college for computer science.
+I'm a 16 year old student currently in my junior year of highschool. I am studying and planning to go to college for computer science.
 I love a good challenge and expanding what I know. I've been fascinated with computers since I was little, and I started coding in the 5th grade.
-I began with HTML/CSS (not a coding language, a markup language) in 5th grade, then a tiny bit of JavaScript, then a tiny bit of C++, now python.
+I began with HTML/CSS in 5th grade, then a tiny bit of JavaScript, then a tiny bit of C++, now python.
 
 ## Get in Touch
 <a href="mailto:xzavyer@xzavyer.codes">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
