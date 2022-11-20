@@ -7,5 +7,5 @@ I'm a 16 year old student currently in my junior year of highschool. I am studyi
 I love a good challenge.
   
 ## Get in Touch
-<a href="mailto:xzavyer@xzavyer.codes">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:xzavyer@xzavyer.dev">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://twitter.com/xzavyerdev">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
