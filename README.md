@@ -7,4 +7,4 @@
 📚 Studying Computer Science @ HS <br>
 ❓ he/him 18 <br>
 🔗 [My Website & Contact](https://xzavyer.dev) <br>
-🔗 [Old GitHub (Inactive)](https://github.com/n0vuh) <br>
+🔗 [Old Projects not listed are HERE](https://github.com/n0vuh) <br>
