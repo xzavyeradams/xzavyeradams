@@ -6,5 +6,4 @@
 ⚡ Python, Java, HTML/CSS/JS, & Go <br>
 📚 Studying Cybersec @ CCAC (Fall 2024) <br>
 ❓ he/him 18 <br>
-🔗 [My Website & Contact](https://xzavyer.dev) <br>
 🔗 [Old Projects not listed are HERE](https://github.com/n0vuh) <br>
